@@ -1,4 +1,4 @@
-module github.com/hanc00l/nemo_go
+module github.com/laoyupg/fxpgxt
 
 go 1.21
 
